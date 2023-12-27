@@ -1,16 +1,24 @@
-# UI组件库
+# diploma
 
-https://ant.design/components/overview-cn
+## Project setup
+```
+npm install
+```
 
-# 代码里面的拖拽题vue.draggable.next
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-https://www.itxst.com/vue-draggable-next/tutorial.html
+### Compiles and minifies for production
+```
+npm run build
+```
 
-# 京东移动端组件库拖拽
+### Lints and fixes files
+```
+npm run lint
+```
 
-https://nutui.jd.com/h5/vue/4x/#/zh-CN/component/drag
-
-# 连线题参照博客
-
-https://juejin.cn/post/7278945628906487843
-
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
